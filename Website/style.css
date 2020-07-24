@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: #FFFFFF;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    height: 80px;
+    width: 100%;
+    background-color:#FFFFFF;
+}
+label.Logo{
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    padding: 0 80px;
+    line-height: 80px;
+}
+nav ul{
+float: right;
+margin-right: 30px;
+}
+nav li{
+    display: inline;
+    line-height: 80px;
+    padding: 8px;
+    margin: 0 8px;
+    color: black;
+    
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    
+    padding: 4px 6px;
+    
+
+
+}
+
+.button{
+    background-color: #9494dc;
+    padding: 12px;
+    border-radius: 30px;
+    color: #fff;
+    padding: 8px;
+	font-size: 1rem;
+	overflow: hidden;
+    z-index: 1;
+ }
+.logoTxt{
+color:#B7B5C0;
+}
+i{
+    color: #6F7085;
+}
+
+/*main*/
+h1{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    margin-top: 150px;
+}
+p{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    margin-top: 10px;
+    padding: 4px;
+    border: 8px;
+    line-height: 20px;
+   
+}
+.button2{
+    background-color: #9494dc;
+    padding: 12px;
+    border-radius: 30px;
+    color: #fff;
+    padding: 8px;
+	font-size: 1rem;
+	overflow: hidden;
+    z-index: 1;
+    margin-left: 80px;
+    margin-top: 30px;
+    line-height: 100px;
+ }
